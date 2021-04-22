@@ -1,0 +1,88 @@
+{
+    "accounts": [
+        {
+            "username": "xDfEUd@IAKl",
+            "email": "PWDMANp9DvmW1Pdm8X_vca~qfhRa2SaDuO7ZmF_Nmxjy6gfFUwYdnoMDk9kFdkJBMOSq~0_f4P4kZBqb1WFM24zke33ZbbmmcbcOhx8a_-WnMZ5Ko8m+WRn4-Q9IBuJ88yxEf@ovkHbu8jHgu0mjkqEaWcaVq2YlJ.DygTKCP9",
+            "password": "=r#(zul>,]{FM~>Li7V0t(&iKyFc~R#dW[!15K>wV\"KU`N~b'dJR''8z+{N#!m/;B1p7Z'CL=8u8Ljt&bBZ",
+            "group": "admin"
+        },
+        {
+            "username": "PxgUfKxAF0CW",
+            "email": "GvVr1SduYbG5kjz4qW~p8_j5wO657~cBaXBTE~ELE+tOvs7hnrMJua46fTwuxA0y~ypK8sJEt_UITUF2hqsNzwWXJ7TPtD2eH2p_bDWF0sS~fCqoFYl0pWFbn97Mf84+nPLaejW44Dq9E11HhQMST7SlC6v5OO3FSZloXh9JnxqoJ8nwlPzWKn-1o+-+WmdCU@PZkOJ0CYXgskBYOFN.H9u23yQgpbaZtXzZykZ",
+            "password": "@uu|-#A@KN8BH!`pPAK9R9St5)5G>q}7l+;V~X2S0:",
+            "group": "admin"
+        },
+        {
+            "username": "dwa3ZBRhScjUP@SQw__90qoQ",
+            "email": "tqoOMX~uuOXYfMEN~clJD~iyC_YVov+kd5trYFjQU7KLz9W1lZovKojvu1O~xFGVQAMnP2f01TeFe@3U.BGeKHIHk4T94xY69GdSwjtvab7B7YXTU8bZscpy2FT6xoBdzLIdjNSh",
+            "password": "@'IHu@bhu1.ml",
+            "group": "admin"
+        },
+        {
+            "username": "RD",
+            "email": "VjaPI+i~cijMTb9ZntNwa7gk~gBFqREFe0tm+vmLCrbBKUVTdMv@fz8DAFrOLb1bvp.KjADmERJ9JJrVeGiBcfwemf2e3Ww1nI1r0vAaR1jtub9og",
+            "password": "=YI\\q~*rzl",
+            "group": "tenant"
+        },
+        {
+            "username": "yoNnaoM0d7-ff6Cu1A3q@Jj",
+            "email": "y5SL8i0UZ0DvxzyKFmNElbQ2iREv9wwqgZO64sjT21pCm8mLAvXB2@VWL7a2sB5IZ61r4jzwAZujbm6lWeeFdSfQ.KFA",
+            "password": "XQ;f5P7$`S<5;jNBbDLD\"W,Q(b-'}p+8/69&~\"\\~vT91[5mgBQk#)heugKk1a4=_e/CDq[P9/$LR7R",
+            "group": "admin"
+        },
+        {
+            "username": "cEd1PLk7cr8loDXkgU6qe46fcV",
+            "email": "sBfGexgDgxphjNakmoToNPQIOdhn_bs3kq6mP5Py4iPU@RkLeYYXUxiPI7qIjC3ChQxQ.wEN",
+            "password": "f_KjCHlr-PPc7),`fn\"=iX/I;V->V$#~c$TDV\\@",
+            "group": "admin"
+        },
+        {
+            "username": "SR",
+            "email": "269QngZ_eH2dOeF50t2v~cqNwtB1qb1HC0cTCYO6xW1pZCZb1LpTlog-7-RRqGMpsm5~AhMcMgRlff0B_CZYi+ID+GNQ-qkg7ZURTq3b2RCsgP+7DO-5OhELedteyeo9vHTm0PSl+8MdPF46YOlG0zl0IUjYKi7b+7lb9_ijGVEOKwRfpxYbxYe269e-@I.FPDTZHwYp449TyXx6411KvPHhPgiSTuRMIZt3G9suCWqJdlZHGEFwU2iZ1SUf",
+            "password": ":H)jVOOB.N{/Imy4H9(dr36YPU4u:6Xbh[i<E$)NL1q<S",
+            "group": "admin"
+        },
+        {
+            "username": "FIoF7KCYEYKMz4Wy-p6Pq7x",
+            "email": "K710WHr0oLw4vX4tdQpItWSlylosaR-yWgmoFRehgLykTSgHp6RcaJr@5ykodcblU4S31ZEHy5SUZQ.xKPOonqW4eQb0vdq1w",
+            "password": "Vb91w_@Q\\W,w3<qy.Zsl\\BG3LZKa$B4'{_|'D9`b<T!,uVVm3OM0p!Ok13",
+            "group": "admin"
+        },
+        {
+            "username": "_MsCFueIv+kxD",
+            "email": "ZSQtVu3pX8pKVIwDpyfIn8UqAjivgiyAXAZ9u5FiefzwmOT1XkIKCXXre9K~-IRdy3-XAqy1UJDEpPBN~2R2I8QCyNYPLXI8Q~savcFhcYPvyPP6t5zcuRpU7ReftalDah8tyINp3APHqW4pM~EVPz6ZT5F1w@W.nPOMhw94JrbkWFsbfvhbbi9ZxQecu3tBrDtYkImU31A2twwPT4USliHbE",
+            "password": "/3~3<pd-JW@\"wSWmz@UNZ>cK;ORP5kx+v/|+BF*1}EeDbFwGxhtKB($/v[swWulrVGJ_ij-",
+            "group": "admin"
+        },
+        {
+            "username": "FLCkVpFa2GG575Hjr8K4R2q",
+            "email": "oGQQ8s~zyVdhja5Sek6AHZzHXf3SYKJg1viedBx3kTdI7TAf0v3~oje0pPTXpDhExiJatldsKEhooprJ+4Kz6OK0vghUGXsjjUqNgzXAAHtjf~P05BuYozoZVHjlLn@9Q6av1ddM95AI7ksvoOT.TBmaaXiB8VbuktIXm8if6KpP1n3ulyYo7T68xZT9Z",
+            "password": "Z0B>:!h2\\-lbO8#`Z4Z8P2az*6Rg:zokTLnXH",
+            "group": "tenant"
+        },
+        {
+            "username": "LN4Z4xP_tlUGAIts7mS2DO0V",
+            "email": "7Q35_vu5qW9z571OJLTD7r00DPM+U0FzoeNZw83m+6_ANUpX0veGsG8PJ4o_joGTzQxuTV7EpmwwdWPfIOzrwQS_aIX05XE4qB_e00e~_HRYvAPwmeQF+9jGuY1YUL9wTaH_xq83ce@UR3WQC74lmUE0.EBCBsOmj0Vf5wqXMxIDZCraAEHoh",
+            "password": "A-l9$O]fGS6,|5K0n]w(t7d*Uhl>zc~O5Fn",
+            "group": "tenant"
+        },
+        {
+            "username": "oW0os+Nim8.1go",
+            "email": "tvm-+a1_cIHyeqWmpJETj_FZ-KE67BcAqGj9MBMmuzt6oOCGLWE00ERTW5wcOiCVpwTWEkQKvs6IUZAqE4@zaIBvOuuiNNAowwcCacl1ElBJpvc5nqL0GXUuZFIj.T8iUePJuA",
+            "password": "AWU2h`CV63=g8v5GoU-@j5/@D3`CLc1bo(4w!]4qJ[$0f5n.aBF56zWU4L/[n[Ld5g@nI}c'",
+            "group": "tenant"
+        },
+        {
+            "username": "+Y9gQ",
+            "email": "5PO77wf+OMJ9JN7DHHWVa~6RYGiZR0jcTIlgHUxj+kjiUQFz7CcyrAL4Grgl1C1ObZq5YJhmHUf9sE-Q_mDoYpAO4m@R.aIasssBQ8vMj8GJ51NTLJy4FBKt3NfbnWjT7uWIqkpLEfvhNlJoruBEdNPLWh",
+            "password": "xq_q1_.fhz~\\>'X_YYs~$|OPp_&8OI(J3e9%@Es\"t@6k`dpBW7Mbv%d8@cG",
+            "group": "tenant"
+        },
+        {
+            "username": "45TF.Tsyyr2S",
+            "email": "-kRZ5xU0yDqndwVGIktHbwY7bS4tWT1wi7V0UB-~g~xYbuENK+DJhfiCAiE-iWL8veODfpNadjLGE9tCtpcJ_1Z1TE5NIvi2Q@WZMeK80VNLoWKujzfhW2CY4Wz6xQ.CvwqeCz54EKO5qKBPX2UmKYgyhwxpLQH",
+            "password": "=F]4NxVa",
+            "group": "tenant"
+        }
+    ]
+}
