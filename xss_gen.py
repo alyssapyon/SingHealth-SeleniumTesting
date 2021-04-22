@@ -7,6 +7,7 @@ from selenium.webdriver.common.keys import Keys
 
 xssTestString = "<script>alert('...haha, you have been XSS-ed...')</script>"
 
+
 # does the effect of the xss attack show?
 
 

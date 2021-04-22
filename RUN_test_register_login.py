@@ -14,3 +14,14 @@ run_test_valid_register_tenant(5)
 
 # login success
 run_test_valid_login(10)
+
+#########
+
+# # register admin accounts
+# run_test_valid_register_admin(3)
+
+# # register tenant accounts
+# run_test_valid_register_tenant(3)
+
+# # login success
+# run_test_valid_login(6)

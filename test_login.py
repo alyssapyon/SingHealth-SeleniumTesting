@@ -12,7 +12,8 @@ import json
 from CONSTANTS import *
 
 # set wait time between testcases
-waitTime = 1
+waitTime = 0.5
+waitTimeShowDetails = 1.4
 
 # file to store registered accounts
 # filename = "registeredAccounts.json"
@@ -20,13 +21,16 @@ filename = registeredAccounts_filepath
 
 
 # NEED TO EDIT THIS BASED ON WHERE YOUR CHROMEDRIVER IS
+
 PATH = chromeDriver_filepath
 
 driver = webdriver.Chrome(PATH)
+driver.minimize_window()
 
 
 def test_login(keys_username, keys_password):
     driver.get("http://127.0.0.1:8000/logout/")
+    driver.maximize_window()
 
     try:
         # username
@@ -44,6 +48,7 @@ def test_login(keys_username, keys_password):
         input_password.send_keys(keys_password)
 
         # press enter
+        time.sleep(waitTimeShowDetails)
         input_password.send_keys(Keys.RETURN)
 
         # print statements
@@ -71,6 +76,7 @@ def run_test_valid_login(times):
 
     for i in range(times):
         temp = data['accounts']
+        print(temp)
         if len(temp) < 1:
             test_login(admin_username,  admin_password)
         else:
@@ -78,9 +84,6 @@ def run_test_valid_login(times):
             test_login(account['username'], account['password'])
 
     file.close()
-
-
-# run_test_valid_login(10)
 
 
 # # Opening JSON file

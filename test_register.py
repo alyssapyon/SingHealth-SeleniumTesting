@@ -16,7 +16,8 @@ from gen_username_INvalid import *
 from CONSTANTS import *
 
 # set wait time between testcases
-waitTime = 2
+waitTime = 0.5
+waitTimeShowDetails = 1.4
 
 # file to store registered accounts
 filename = registeredAccounts_filepath
@@ -24,12 +25,14 @@ filename = registeredAccounts_filepath
 # NEED TO EDIT THIS BASED ON WHERE YOUR CHROMEDRIVER IS
 PATH = chromeDriver_filepath
 driver = webdriver.Chrome(PATH)
+driver.minimize_window()
 
 
 def test_register(keys_username, keys_email, keys_password1, same, group):
     dictionary = {}
 
     driver.get("http://127.0.0.1:8000/logout/")
+    driver.maximize_window()
 
     if group == "admin":
         driver.get("http://127.0.0.1:8000/register/admin")
@@ -72,6 +75,7 @@ def test_register(keys_username, keys_email, keys_password1, same, group):
             input_password2.send_keys(generate_password_valid())
 
         # press enter
+        time.sleep(waitTimeShowDetails)
         input_password2.send_keys(Keys.RETURN)
 
         # print statements
@@ -167,5 +171,5 @@ def run_test_INvalid_register_tenant(times):
 
 # run_test_valid_register_admin(3)
 # run_test_valid_register_tenant(1)
-run_test_INvalid_register_admin(5)
-run_test_INvalid_register_tenant(2)
+# run_test_INvalid_register_admin(5)
+# run_test_INvalid_register_tenant(2)
