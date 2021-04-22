@@ -20,6 +20,8 @@ filename = registeredAccounts_filepath
 PATH = chromeDriver_filepath
 driver = webdriver.Chrome(PATH)
 
+waittime = 1
+
 ############################################
 # supporing functions below
 
@@ -152,15 +154,20 @@ def test_createcovidreport():
     pass
 
 
+def testReports(fb=1, nonfb=1, covid=1):
+    for i in range(fb):
+        test_createFBreport()
+        time.sleep(waittime)
+
+    for i in range(nonfb):
+        test_createnonFBreport()
+        time.sleep(waittime)
+
+    for i in range(covid):
+        test_createcovidreport()
+        time.sleep(waittime)
 ############################################
 # TESTING DONE HERE
-waittime = 1
 
-test_createFBreport()
-time.sleep(waittime)
 
-test_createnonFBreport()
-time.sleep(waittime)
-
-test_createcovidreport()
-time.sleep(waittime)
+testReports()

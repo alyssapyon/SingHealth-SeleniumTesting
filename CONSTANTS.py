@@ -5,7 +5,7 @@ chromeDriver_filepath = "C:\\chromedriver.exe"
 # json file of registered accounts
 # registeredAccounts_filepath = "register + login\\registeredAccounts.json"
 # registeredAccounts_filepath = "C:\\Users\\admin\\Documents\\GitHub\\SeleniumTesting-Modified\\register + login\\registeredAccounts.json"
-registeredAccounts_filepath = "C:\\Users\\admin\\Documents\\GitHub\\SeleniumTesting-Modified\\registeredAccounts.json"
+registeredAccounts_filepath = "C:\\Users\\admin\\Documents\\GitHub\\SingHealth-SeleniumTesting\\registeredAccounts.json"
 
 # confirmed accounts
 # tenant
